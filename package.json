@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^1.4.2",
+    "colorguard": "^1.0.1",
     "csslint": "^0.10.0",
     "escomplex-ast-moz": "^0.1.6",
     "escomplex-js": "^1.2.0",

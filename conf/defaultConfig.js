@@ -3,10 +3,9 @@ module.exports = {
   graphiteHost: 'localhost',
   graphiteNamespace: 'frontend',
   includeProfiler: [
-    'jshint',
+    'eslint',
     'complexity',
     'csslint',
-    'stylestats',
-    'scsslint'
+    'stylestats'
   ]
 };
