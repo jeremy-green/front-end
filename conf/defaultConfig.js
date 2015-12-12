@@ -1,5 +1,5 @@
 module.exports = {
-  graphitePort: 9100,
+  graphitePort: 2003,
   graphiteHost: 'localhost',
   graphiteNamespace: 'frontend',
   includeProfiler: [
